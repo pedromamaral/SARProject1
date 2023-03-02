@@ -1,0 +1,11 @@
+/home/pedroamaral/HTTPServer/src/main/java/HTTPServer/JavaRESTAPI.java
+/home/pedroamaral/HTTPServer/src/main/java/HTTPFormat/Headers.java
+/home/pedroamaral/HTTPServer/src/main/java/HTTPFormat/HTTPResponse.java
+/home/pedroamaral/HTTPServer/src/main/java/HTTPServer/groupDB.java
+/home/pedroamaral/HTTPServer/src/main/java/HTTPFormat/HTTPRequest.java
+/home/pedroamaral/HTTPServer/src/main/java/HTTPServer/ConnectionThread.java
+/home/pedroamaral/HTTPServer/src/main/java/HTTPFormat/HTTPReplyCode.java
+/home/pedroamaral/HTTPServer/src/main/java/HTTPServer/SystemInfo.java
+/home/pedroamaral/HTTPServer/src/main/java/HTTPServer/App.java
+/home/pedroamaral/HTTPServer/src/main/java/HTTPServer/ServerThread.java
+/home/pedroamaral/HTTPServer/src/main/java/module-info.java

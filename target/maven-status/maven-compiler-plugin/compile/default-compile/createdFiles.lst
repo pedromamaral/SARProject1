@@ -1,0 +1,11 @@
+HTTPServer/JavaRESTAPI.class
+HTTPServer/ConnectionThread.class
+HTTPServer/groupDB.class
+HTTPFormat/HTTPResponse.class
+module-info.class
+HTTPServer/SystemInfo.class
+HTTPFormat/HTTPRequest.class
+HTTPServer/App.class
+HTTPFormat/Headers.class
+HTTPServer/ServerThread.class
+HTTPFormat/HTTPReplyCode.class
