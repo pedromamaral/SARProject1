@@ -1,6 +1,8 @@
 # SAR Project - HTTP/1.1 Server with SSE Support
 
-The project goal is to implement a Java-based HTTP/1.1 server that conects to a database (containing information on groups of students) optionality to obtain grades higher than 17 Server-Sent Events (SSE) should be implemented for real-time update of database operations in all client browsers connected to the server. This initial project serves as an educational starting boilerplate that serves as a base to start coding the project and as an initial structure for understanding web server architecture, design patterns, and event-driven programming.
+The project goal is to implement a Java-based HTTP/1.1 server that conects to a database (containing information on groups of students). To obtain grades higher than 17 the student must also implement Server-Sent Events (SSE) for real-time update of database operations in all subscribed client browsers. 
+
+This initial project serves as an educational starting boilerplate that serves as a base to start coding the project and as an initial structure for understanding web server architecture, design patterns, and event-driven programming.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
