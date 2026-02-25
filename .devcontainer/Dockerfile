@@ -1,5 +1,8 @@
 FROM mcr.microsoft.com/devcontainers/java:1-21-bullseye
 
+# Fix Yarn repository GPG key issue
+RUN rm -f /etc/apt/sources.list.d/yarn.list
+
 # Install MongoDB command line tools - though mongo-database-tools not available on arm64
 ARG MONGO_TOOLS_VERSION=6.0
 RUN . /etc/os-release \
